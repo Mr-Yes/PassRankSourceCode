@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1423663057 source:c:\users\babe\documents\github\poj\passrank_datepreprocess\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
